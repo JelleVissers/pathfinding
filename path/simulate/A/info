@@ -1,0 +1,29 @@
+# A* Algoritme
+#####library
+
+
+---
+
+## simule
+Opzetten van een simulatie omgeveng. Deze omgeving is opgezet in pygame, een simple 
+game engine in python.
+er is gekozen om gebruik te maken van pygame omdat de Tkinter library uit de praktijk te langzaam bleek.
+
+##### input waardes
+| naam              | omschrijving                                                          |      
+|-------------------|-----------------------------------------------------------------------|
+|omgevingsmatrix    | geeft een ovscrijving van de omgeving in matrix vorm                  |
+|start              | coördinaten startpunt                                                 |
+|stop               | coördinaten stoppunt
+
+##### gebruikte waardes
+| naam              | omschrijving                                                          |
+|-------------------|-----------------------------------------------------------------------|
+|calculatiematrix   | matrix waar de resultaten van de berekening in opgeslagen wordt       |
+|stepmatrix         | matrix waarin de gemaakte stappen tot een punt in worden opgeslagen   |
+
+## update screen
+
+## color cal
+
+## matrix replacevalue
